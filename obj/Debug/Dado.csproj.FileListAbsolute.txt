@@ -1,0 +1,7 @@
+D:\C# Projects\Dado\Dado\Dado\bin\Debug\Dado.exe.config
+D:\C# Projects\Dado\Dado\Dado\bin\Debug\Dado.exe
+D:\C# Projects\Dado\Dado\Dado\bin\Debug\Dado.pdb
+D:\C# Projects\Dado\Dado\Dado\obj\Debug\Dado.csprojAssemblyReference.cache
+D:\C# Projects\Dado\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+D:\C# Projects\Dado\Dado\Dado\obj\Debug\Dado.exe
+D:\C# Projects\Dado\Dado\Dado\obj\Debug\Dado.pdb
